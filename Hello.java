@@ -3,7 +3,7 @@ public class Hello{
 	public static void main(String [] args){
 	
 		for (int i=1;i<=10;i++){
-			System.out.println("Moi emergence1 "+i);
+			System1.out.println("Moi emergence1 "+i);
 		}
 	
 	}
